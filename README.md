@@ -5,4 +5,4 @@ or, alternatively you can flash your clock via WEB browser by connecting it to y
 This process decribes the firmware upgrade using ESP8266 Download Tool:
 ![image](https://github.com/user-attachments/assets/3ac885ea-3be7-4281-afea-beac5867993c)
 
-![image](https://github.com/user-attachments/assets/f2d99fda-4238-4b14-9dc3-49827092b1c1)
+![image](https://github.com/user-attachments/assets/313d62e8-b8cf-43a1-9671-efbdc8c08c92)
